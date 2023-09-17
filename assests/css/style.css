@@ -27,12 +27,10 @@ header img {
     height: 30px;
     background-color: #325eb2;
     align-items: center;
-    /* text-align: center; */
 }
 
 .navbar ul {
     display: inline;
-    /* text-align: center; */
     align-items: center;
     margin: 0;
     padding: 0;
